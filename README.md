@@ -1,4 +1,7 @@
 ### Hi there 👋
+<details>
+<summary>Activity Graph</summary>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=11104&theme=nord_bright)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11104&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=11104&theme=nord_bright&utcOffset=8)
@@ -7,6 +10,7 @@
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=11104&theme=nord_bright)-->
 <!--[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=11104)](https://github.com/evirunurm/github-stats)-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=11104&theme=nord_bright)-->
+</details>
  
 
 <!--
